@@ -4,6 +4,6 @@
 
 <style scoped>
 a, p {
-    color: #666;
+    color: #777;
 }
 </style>
