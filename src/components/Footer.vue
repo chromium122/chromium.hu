@@ -1,5 +1,5 @@
 <template>
-    <p><a href="https://github.com/chromium122/chromium122.github.io/">source code</a></p>
+    <p><a href="https://github.com/chromium122/chromium.hu/">source code</a></p>
 </template>
 
 <style scoped>
