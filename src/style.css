@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body, #app {
+    background-color: #000;
+    width: 100%;
+    height: 100%;
+}
+
+#app {
+    padding: 64px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.top {
+    display: flex;
+    flex-direction: row;
+}
+
+h1, h2, p {
+    font-family: sans-serif;
+    color: #fff;
+}
