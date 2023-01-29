@@ -8,9 +8,6 @@
     "build": "vue-tsc && vite build",
     "preview": "vite preview"
   },
-  "engines": {
-    "node": "^19.4.0"
-  },
   "dependencies": {
     "age-calculator": "^1.0.0",
     "vue": "^3.2.45"
