@@ -8,8 +8,10 @@ import Footer from "./components/Footer.vue";
 <template>
     <div class="top">
         <Header></Header>
-        <Personal></Personal>
-        <Contact></Contact>
+        <div class="details">
+            <Personal></Personal>
+            <Contact></Contact>
+        </div>
     </div>
     <div class="bottom">
         <Footer></Footer>
@@ -28,5 +30,10 @@ h2 {
 
 p {
     color: #aaa;
+}
+
+.details {
+    flex: 2;
+    display: flex;
 }
 </style>
